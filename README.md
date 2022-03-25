@@ -15,7 +15,7 @@ A sticker is compatible with any Music Player that have common words with the St
 Tasks:
 1. Read and store n products;
 2. Add a new product using function overloading:
-2.1 void addProduct()- first time we read the type of the product;
-2.2 void addProduct( Product *p)- first time we discover the type of the product;
+     - void addProduct()- first time we read the type of the product;
+     - void addProduct( Product *p)- first time we discover the type of the product;
 3. Display the products that are in the cart;
 4. Display the compatible pairs in the cart.
